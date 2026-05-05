@@ -1222,5 +1222,29 @@
         "badges": ["Online"]
       }
     ]
+  },
+  {
+    "buildid": "12142996",
+    "name": "Wild Hearts",
+    "fixes": [
+      {
+        "href": "https://buzzheavier.com/mgoyh3l0pmg1",
+        "filename": "",
+        "size": "",
+        "badges": ["Online"]
+      }
+    ]
+  },
+  {
+    "buildid": "9025691",
+    "name": "Zombie Army 4: Dead War",
+    "fixes": [
+      {
+        "href": "https://buzzheavier.com/tbuduu5hxzb7",
+        "filename": "",
+        "size": "",
+        "badges": ["Online"]
+      }
+    ]
   }
 ]
